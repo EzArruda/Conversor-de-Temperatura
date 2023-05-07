@@ -1,0 +1,33 @@
+.back-nav {
+  background-color: #252422;
+  padding-bottom: 5px;
+}
+
+.botao {
+  background-color: lightgray;
+  color: black;
+  border-radius: 30px;
+  height: 50px;
+  text-align: center;
+  font-size: 19pt;
+  border-color: black;
+  border-style: solid;
+}
+
+#convert {
+  width: 300px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  font-size: larger;
+  font-size: 20pt;
+
+}
+
+.input_temp {
+  border-radius: 10px;
+  border-color: black;
+  border-style: solid;
+  width: 700px;
+}
