@@ -1,7 +1,7 @@
-.back-nav {
-  background-image: linear-gradient( -90deg ,rgb(212, 221, 212), green);
-  padding-bottom: 5px;
+@charset "UTF8";
 
+.back-nav {
+  padding-bottom: 5px;
 }
 
 .botao {
