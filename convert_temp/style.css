@@ -1,6 +1,7 @@
 .back-nav {
-  background-color: #252422;
+  background-image: linear-gradient( -90deg ,rgb(212, 221, 212), green);
   padding-bottom: 5px;
+
 }
 
 .botao {
